@@ -1,0 +1,26 @@
+{
+  "name": "jscodesignal",
+  "version": "1.0.0",
+  "description": "Code Signal Problems for Node.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregoryjflaherty/jsCodeSignal.git"
+  },
+  "author": "N/A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregoryjflaherty/jsCodeSignal/issues"
+  },
+  "homepage": "https://github.com/gregoryjflaherty/jsCodeSignal#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
